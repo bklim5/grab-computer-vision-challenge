@@ -65,7 +65,10 @@ The output CSV will contain the filename, predicted class, predicted class ID, c
 | ... | ...| ...| ...| ...| ...| ...|
 
 ## Web app
-TODO
+http://prod-car-model-identification.p3bt8nubkm.ap-southeast-1.elasticbeanstalk.com/
+
+Deployed to AWS Beanstalk based on fastai boilerplate. Accept an image and returns the predicted car class and its probability respectively.
+
 
 ## Potential future improvement
 1. To utilize the bounding boxes provided in training dataset to focus on the car image. Though that would require an object detection model to be trained as well to recognize the car object in test.
