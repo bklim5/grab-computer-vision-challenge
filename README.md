@@ -9,6 +9,8 @@ Technique used during training:
 3. Unfreezing of earlier layers
 4. Progressive resizing (from 244 -> 299 -> 480 -> (400, 600))
 
+Steps / experiments can be found in cars.ipynb.
+
 All these techniques / approaches were taught in fast.ai MOOC course.
 
 ## Run
