@@ -65,7 +65,7 @@ The output CSV will contain the filename, predicted class, predicted class ID, c
 | ... | ...| ...| ...| ...| ...| ...|
 
 ## Web app
-http://prod-car-model-identification.p3bt8nubkm.ap-southeast-1.elasticbeanstalk.com/
+~http://prod-car-model-identification.p3bt8nubkm.ap-southeast-1.elasticbeanstalk.com/~
 
 Deployed to AWS Beanstalk based on fastai boilerplate. Accept an image and returns the predicted car class and its probability respectively.
 
